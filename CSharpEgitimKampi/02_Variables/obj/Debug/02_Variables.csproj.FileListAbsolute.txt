@@ -1,0 +1,8 @@
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.SuggestedBindingRedirects.cache
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
