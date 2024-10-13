@@ -177,25 +177,33 @@ namespace _05_LoopsWithStarts
             #endregion
 
             #region Ters Piramit
-            int n = 5;
-            for (int i = n; i >= 1; i--)
-            {
-                //bosluklar
-                for (int b = n; b >= i; b--)
-                {
-                    Console.Write(" ");
-                }
-                //yildizlar
-                for (int k=2*i-1;k>=1;k--)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
-            }
+            //int n = 5;
+            //for (int i = n; i >= 1; i--)
+            //{
+            //    //bosluklar
+            //    for (int b = n; b >= i; b--)
+            //    {
+            //        Console.Write(" ");
+            //    }
+            //    //yildizlar
+            //    for (int k=2*i-1;k>=1;k--)
+            //    {
+            //        Console.Write("*");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            /*   Output
+                
+                *********
+                *******
+                 *****
+                  ***
+                   *
+             */
 
 
             #endregion
-
 
             Console.Read();
 
