@@ -88,35 +88,35 @@ namespace _02_Variables
 
             #region Klavyeden Veri Girişleri String Değişkenler
 
-            //Console.WriteLine("***** CSharp Hava Yollari Yolcu Bilgisi *****");
-            //Console.WriteLine();
+            Console.WriteLine("***** CSharp Hava Yollari Yolcu Bilgisi *****");
+            Console.WriteLine();
 
-            //string passengerName, passengerSurname, passengerDistrict, passengerCity, passengerAge, passengerIdentityNumber;
+            string passengerName, passengerSurname, passengerDistrict, passengerCity, passengerAge, passengerIdentityNumber;
 
-            //Console.Write("Yolcu Adi : ");
-            //passengerName = Console.ReadLine();
+            Console.Write("Yolcu Adi : ");
+            passengerName = Console.ReadLine();
 
-            //Console.Write("Yolcu Soyadı : ");
-            //passengerSurname = Console.ReadLine();
+            Console.Write("Yolcu Soyadı : ");
+            passengerSurname = Console.ReadLine();
 
-            //Console.Write("İlçe Bilgisi : ");
-            //passengerDistrict = Console.ReadLine();
+            Console.Write("İlçe Bilgisi : ");
+            passengerDistrict = Console.ReadLine();
 
-            //Console.Write("Şehir Bilgisi : ");
-            //passengerCity = Console.ReadLine();
+            Console.Write("Şehir Bilgisi : ");
+            passengerCity = Console.ReadLine();
 
-            //Console.Write("Yolcu Yaş : ");
-            //passengerAge = Console.ReadLine();
+            Console.Write("Yolcu Yaş : ");
+            passengerAge = Console.ReadLine();
 
-            //Console.Write("Yolcu TC Kimlik No : ");
-            //passengerIdentityNumber = Console.ReadLine();
+            Console.Write("Yolcu TC Kimlik No : ");
+            passengerIdentityNumber = Console.ReadLine();
 
 
 
-            //Console.WriteLine();
-            //Console.WriteLine("-------------------------------------");
-            //Console.WriteLine("Yolcu TC Kimlik No : " + passengerIdentityNumber + "Yolcu Ad Soyad: " + passengerName + " " + passengerSurname +" " + 
-            //    passengerDistrict + "/" + passengerCity + " " + passengerAge);
+            Console.WriteLine();
+            Console.WriteLine("-------------------------------------");
+            Console.WriteLine("Yolcu TC Kimlik No : " + passengerIdentityNumber + "Yolcu Ad Soyad: " + passengerName + " " + passengerSurname + " " +
+                passengerDistrict + "/" + passengerCity + " " + passengerAge);
 
 
 
