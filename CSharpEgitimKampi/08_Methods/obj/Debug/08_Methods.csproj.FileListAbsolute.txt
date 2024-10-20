@@ -1,0 +1,8 @@
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe.config
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.pdb
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.SuggestedBindingRedirects.cache
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.exe
+C:\UDEMY\CSharp-MuratYücedağYoutube\EğitimKampi\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.pdb
